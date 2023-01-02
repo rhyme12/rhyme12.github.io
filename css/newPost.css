@@ -1,0 +1,16 @@
+/* 最新文章图标 */
+.newPost-left,
+.newPost-right {
+  position: absolute;
+  top: 0;
+  color: #fff;
+  padding: 0 15px;
+  background-color: #49b1f5;
+  border-radius: 0 0 10px 10px;
+}
+.newPost-left {
+  left: 15px;
+}
+.newPost-right {
+  right: 15px;
+}
